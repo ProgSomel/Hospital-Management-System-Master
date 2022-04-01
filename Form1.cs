@@ -37,5 +37,15 @@ namespace LOGIN_FORM
         {
             panel1.BackColor=Color.FromArgb(100,0,0,0);
         }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
