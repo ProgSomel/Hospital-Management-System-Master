@@ -134,9 +134,9 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Location = new System.Drawing.Point(49, 13);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(184, 41);
+            this.label2.Size = new System.Drawing.Size(309, 41);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Hospital ";
+            this.label2.Text = "Hospital Somel9";
             this.label2.Click += new System.EventHandler(this.label2_Click_1);
             // 
             // Form1
