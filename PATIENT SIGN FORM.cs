@@ -258,5 +258,10 @@ namespace LOGIN_FORM
             }
 
         }
+
+        private void gender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
